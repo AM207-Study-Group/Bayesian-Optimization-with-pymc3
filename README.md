@@ -8,6 +8,6 @@ https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-lea
 Practical Bayesian Optimization of Machine Learning Algorithms
 By Jasper Snoek, Hugo Larochelle and Ryan P. Adams
 
-Unlike the existing projects like SpearMint (https://github.com/HIPS/Spearmint), we're using the pymc3 as our sampler, which is generally stable and pretty efficient module for Bayesian statistics sampling. The reason why we need a sampler in building Gaussian Process will be introduced with details in our tutorial.
+Unlike the existing projects like SpearMint (https://github.com/HIPS/Spearmint), we're using the pymc3 as our sampler, which is generally stable and pretty efficient module for Bayesian statistics sampling. The necessity for a sampler here will be introduced with details in our tutorial.
 
 We would be glad if this tutorial helps anyone.
