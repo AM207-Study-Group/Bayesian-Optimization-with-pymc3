@@ -1,6 +1,6 @@
 # Bayesian Optimization with pymc3
 
-This is a paper-reproducing project for AM207 in 2018 Fal.
+This is a paper-reproducing project for AM207 in 2018 Fall.
 Check our course website for more info: http://am207.info/
 
 We repeated and explained how Bayesian Optimization works, according to the following 2012 paper:
